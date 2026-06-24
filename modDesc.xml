@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="110">
+    <author>Mattiaw112</author>
+    <title>
+        <en>Realistic Weather Lite</en>
+        <it>Meteo Realistico Lite</it>
+    </title>
+    <description>
+        <en>
+            This mod adds a lightweight and optimized weather management system, inspired by the original "Realistic Weather" mod by Arrow. 
+            It focuses on essential effects like dynamic fog, snow accumulation, and hail damage, excluding the complex separate humidity system.
+        </en>
+        <it>
+            Questa mod aggiunge un sistema di gestione meteo leggero e ottimizzato, ispirato alla mod originale "Realistic Weather" di Arrow. 
+            Si concentra sugli effetti essenziali come nebbia dinamica, accumulo di neve e danni da grandine, escludendo il complesso sistema di umidità separato.
+        </it>
+    </description>
+    <version>1.0.0.0</version>
+    <iconFilename>icon_RealisticWeatherLite.dds</iconFilename>
+    <multiplayerSupported>true</multiplayerSupported>
+
+    <extraSourceFiles>
+        <sourceFile filename="src/RealisticWeatherLite.lua" />
+        <sourceFile filename="src/WeatherSettings.lua" />
+        <sourceFile filename="src/WheelDestruction.lua" />
+        <sourceFile filename="src/AmbientSoundSystem.lua" />
+    </extraSourceFiles>
+
+    <l10n>
+        <text name="hailDamage_settings">
+            <en>Realistic Weather Settings</en>
+            <it>Impostazioni Meteo Realistico</it>
+        </text>
+        <text name="hailDamage_enabled">
+            <en>Hail Damage to Vehicles</en>
+            <it>Danni da grandine sui veicoli</it>
+        </text>
+        <text name="rw_warning_title">
+            <en>Weather Alert</en>
+            <it>Allerta Meteo</it>
+        </text>
+        <text name="rw_fog_alert">
+            <en>Dense fog formed. Visibility severely reduced!</en>
+            <it>Si è formata nebbia fitta. Visibilità ridotta drasticamente!</it>
+        </text>
+        <text name="rw_hail_alert">
+            <en>Hailstorm in progress! Vehicles left outside will be damaged.</en>
+            <it>Grandinata in corso! I mezzi lasciati allo scoperto subiranno danni.</it>
+        </text>
+        <text name="rw_snow_alert">
+            <en>Heavy snowfall! Snow accumulation is increasing significantly.</en>
+            <it>Fitta nevicata in corso! L'accumulo di neve sta aumentando notevolmente.</it>
+        </text>
+    </l10n>
+</modDesc>
