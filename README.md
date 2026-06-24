@@ -1,4 +1,4 @@
-# FS25_Realistic Weather Light
+# FS25_Realistic Weather Lite
 
 ## Description / Descrizione
 **EN:** This mod adds a lightweight and optimized weather management system, inspired by the original "Realistic Weather" mod by Arrow. It focuses on essential effects like dynamic fog, snow accumulation, and hail damage, excluding the complex separate humidity system.
@@ -14,14 +14,14 @@
 ## Credits & Permissions / Crediti e Permessi
 
 **English:**
-* **Author of this "Light" version:** Mattiaw112
+* **Author of this "Lite" version:** Mattiaw112
 * **Original Concept/Inspiration:** Realistic Weather mod by **Arrow**.
-* **Permissions:** You are allowed to modify this mod or use its logic for personal projects. If you publish a modified version, you **must** give credit to **Mattiaw112** as the author of the "Light" version and acknowledge the original inspiration from Arrow. Re-uploading this mod without credit or claiming it as your own work is prohibited.
+* **Permissions:** You are allowed to modify this mod or use its logic for personal projects. If you publish a modified version, you **must** give credit to **Mattiaw112** as the author of the "Lite" version and acknowledge the original inspiration from Arrow. Re-uploading this mod without credit or claiming it as your own work is prohibited.
 
 **Italiano:**
-* **Autore di questa versione "Light":** Mattiaw112
+* **Autore di questa versione "Lite":** Mattiaw112
 * **Concept originale/Ispirazione:** Realistic Weather mod di **Arrow**.
-* **Permessi:** È permesso modificare questa mod o usarne la logica per progetti personali. Se pubblichi una versione modificata, **devi** citare **Mattiaw112** come autore della versione "Light" e riconoscere l'ispirazione originale di Arrow. È vietato ricaricare questa mod senza citare l'autore o spacciarla per propria.
+* **Permessi:** È permesso modificare questa mod o usarne la logica per progetti personali. Se pubblichi una versione modificata, **devi** citare **Mattiaw112** come autore della versione "Lite" e riconoscere l'ispirazione originale di Arrow. È vietato ricaricare questa mod senza citare l'autore o spacciarla per propria.
 
 ## License / Licenza
 This project is licensed under the GNU General Public License v3.0 (GPLv3).
