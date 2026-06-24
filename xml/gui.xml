@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<GUI name="RealisticWeatherGUI">
-    <GuiElement type="inGameMenu" name="RealisticWeatherSettings" title="hailDamage_settings">
-        <Box name="SettingsContent">
-            <CheckBox name="hailEnabled" title="hailDamage_enabled" />
-        </Box>
-    </GuiElement>
-</GUI>
