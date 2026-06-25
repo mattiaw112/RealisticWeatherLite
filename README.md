@@ -1,5 +1,3 @@
-
-
 # FS25_Realistic Weather Lite
 
 ## Description / Descrizione
