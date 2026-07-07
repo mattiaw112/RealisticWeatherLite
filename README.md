@@ -1,14 +1,3 @@
-# ⚠️ WARNING: PROJECT UNDER DEVELOPMENT (WIP)
-
-This mod is currently in a debugging phase and is **NOT functional**. I am encountering a critical crash on startup that prevents the game from loading properly.
-
-**Technical Issue:** The log reports the following error:
-`Warning (script): 'getXMLRootName': Argument 1 has wrong type. Expected: Int. Actual: Nil`
-
-I am seeking help from other modders to understand why the environment loading system is failing to handle the custom XML file correctly. If you have experience with FS25 scripts and know how to resolve this conflict, please open an **Issue** in this repository or contact me. Any technical advice is greatly appreciated!
-
----
-
 # FS25_Realistic Weather Lite
 
 ## Description / Descrizione
