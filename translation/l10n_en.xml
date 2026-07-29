@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Hail Damage"/>
+        <text name="hailDamage_tooltip" text="Enable or disable vehicle damage and wear caused by hailstorms."/>
+        
+        <text name="notifications_enabled" text="Weather Notifications"/>
+        <text name="notifications_tooltip" text="Enable or disable warning notifications for severe weather events."/>
+        
+        <text name="fog_enabled" text="Dynamic Fog"/>
+        <text name="fog_tooltip" text="Enable or disable dynamic realistic fog conditions based on weather and temperature."/>
+        
+        <text name="rw_blizzard_alert" text="Heavy blizzard warning! Extreme weather conditions detected."/>
+        <text name="rw_hail_alert" text="Warning: Hailstorm detected! Risk of vehicle damage."/>
+        <text name="rw_fog_alert" text="Dense fog rolling in, visibility is significantly reduced."/>
+    </texts>
+</l10n>

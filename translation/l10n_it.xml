@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Danni da Grandine"/>
+        <text name="hailDamage_tooltip" text="Abilita o disabilita i danni e l'usura dei veicoli causati dalle grandinate."/>
+        
+        <text name="notifications_enabled" text="Notifiche Meteo"/>
+        <text name="notifications_tooltip" text="Abilita o disabilita gli avvisi di notifica per gli eventi meteorologici severi."/>
+        
+        <text name="fog_enabled" text="Nebbia Dinamica"/>
+        <text name="fog_tooltip" text="Abilita o disabilita condizioni di nebbia realistica basate su meteo e temperatura."/>
+        
+        <text name="rw_blizzard_alert" text="Allerta bufera di neve! Rilevate condizioni meteorologiche estreme."/>
+        <text name="rw_hail_alert" text="Attenzione: Grandinata in corso! Rischio danni ai veicoli."/>
+        <text name="rw_fog_alert" text="Fitta nebbia in arrivo, la visibilità è notevolmente ridotta."/>
+    </texts>
+</l10n>

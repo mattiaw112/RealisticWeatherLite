@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Daños por Granizo"/>
+        <text name="hailDamage_tooltip" text="Activa o desactiva los daños y el desgaste en vehículos causados por el granizo."/>
+        
+        <text name="notifications_enabled" text="Notificaciones Meteorológicas"/>
+        <text name="notifications_tooltip" text="Activa o desactiva las alertas para eventos meteorológicos severos."/>
+        
+        <text name="fog_enabled" text="Niebla Dinámica"/>
+        <text name="fog_tooltip" text="Activa o desactiva condiciones de niebla realista basadas en el clima y la temperatura."/>
+        
+        <text name="rw_blizzard_alert" text="¡Alerta de ventisca! Se detectaron condiciones climáticas extremas."/>
+        <text name="rw_hail_alert" text="¡Atención: Granizada detectada! Riesgo de daños en vehículos."/>
+        <text name="rw_fog_alert" text="Niebla densa entrante, la visibilidad se ha reducido considerablemente."/>
+    </texts>
+</l10n>

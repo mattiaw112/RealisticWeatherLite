@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Uszkodzenia od Gradu"/>
+        <text name="hailDamage_tooltip" text="Włącza lub wyłącza uszkodzenia i zużycie pojazdów spowodowane burzami gradowymi."/>
+        
+        <text name="notifications_enabled" text="Powiadomienia Pogodowe"/>
+        <text name="notifications_tooltip" text="Włącza lub wyłącza powiadomienia o trudnych warunkach pogodowych."/>
+        
+        <text name="fog_enabled" text="Dynamiczna Mgła"/>
+        <text name="fog_tooltip" text="Włącza lub wyłącza realistyczne warunki mgły w zależności od pogody i temperatury."/>
+        
+        <text name="rw_blizzard_alert" text="Ostrzeżenie przed zamiecią! Wykryto ekstremalne warunki pogodowe."/>
+        <text name="rw_hail_alert" text="Uwaga: Wykryto burzę gradową! Ryzyko uszkodzenia pojazdów."/>
+        
+        <text name="rw_fog_alert" text="Nadchodzi gęsta mgła, widoczność jest znacznie ograniczona."/>
+    </texts>
+</l10n>

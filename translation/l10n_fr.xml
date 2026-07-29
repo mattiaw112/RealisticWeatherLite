@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Dégâts de Grêle"/>
+        <text name="hailDamage_tooltip" text="Active ou désactive l'usure et les dégâts sur les véhicules causés par la grêle."/>
+        
+        <text name="notifications_enabled" text="Notifications Météo"/>
+        <text name="notifications_tooltip" text="Active ou désactive les alertes pour les conditions météo difficiles."/>
+        
+        <text name="fog_enabled" text="Brouillard Dynamique"/>
+        <text name="fog_tooltip" text="Active ou désactive un brouillard réaliste basé sur la météo et la température."/>
+        
+        <text name="rw_blizzard_alert" text="Alerte tempête de neige ! Conditions météorologiques extrêmes."/>
+        <text name="rw_hail_alert" text="Attention : Grêle détectée ! Risque de dégâts sur les véhicules."/>
+        <text name="rw_fog_alert" text="Brouillard dense en approche, la visibilité est réduite."/>
+    </texts>
+</l10n>

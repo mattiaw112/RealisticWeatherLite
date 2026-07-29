@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Урон от града"/>
+        <text name="hailDamage_tooltip" text="Включить или выключить износ и повреждения техники от града."/>
+        
+        <text name="notifications_enabled" text="Уведомления о погоде"/>
+        <text name="notifications_tooltip" text="Включить или выключить предупреждения о суровых погодных условиях."/>
+        
+        <text name="fog_enabled" text="Динамический туман"/>
+        <text name="fog_tooltip" text="Включить или выключить реалистичный туман в зависимости от погоды и температуры."/>
+        
+        <text name="rw_blizzard_alert" text="Предупреждение о метели! Обнаружены экстремальные погодные условия."/>
+        <text name="rw_hail_alert" text="Внимание: Обнаружен град! Риск повреждения техники."/>
+        <text name="rw_fog_alert" text="Надвигается густой туман, видимость значительно снижена."/>
+    </texts>
+</l10n>

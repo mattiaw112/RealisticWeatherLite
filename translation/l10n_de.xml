@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="hailDamage_enabled" text="Hagelschaden"/>
+        <text name="hailDamage_tooltip" text="Aktiviert oder deaktiviert Fahrzeugschäden und Verschleiß durch Hagelstürme."/>
+        
+        <text name="notifications_enabled" text="Wetter-Benachrichtigungen"/>
+        <text name="notifications_tooltip" text="Aktiviert oder deaktiviert Warnungen für extreme Wetterereignisse."/>
+        
+        <text name="fog_enabled" text="Dynamischer Nebel"/>
+        <text name="fog_tooltip" text="Aktiviert oder deaktiviert realistische, wetter- und temperaturabhängige Nebelbedingungen."/>
+        
+        <text name="rw_blizzard_alert" text="Starke Schneesturm-Warnung! Extreme Wetterbedingungen erkannt."/>
+        <text name="rw_hail_alert" text="Achtung: Hagelsturm erkannt! Gefahr von Fahrzeugschäden."/>
+        <text name="rw_fog_alert" text="Dichter Nebel zieht auf, die Sichtweite ist stark eingeschränkt."/>
+    </texts>
+</l10n>
