@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="110">
+    <author>Mattiaw112</author>
+    <title>
+        <en>Realistic Weather Lite</en>
+        <it>Meteo Realistico Lite</it>
+        <de>Realistisches Wetter Lite</de>
+        <fr>Météo Réaliste Lite</fr>
+        <es>Clima Realista Lite</es>
+        <pl>Realistyczna Pogoda Lite</pl>
+        <ru>Реалистичная погода Lite</ru>
+    </title>
+    <description>
+        <en>
+            This mod adds a lightweight and optimized weather management system, inspired by the original "Realistic Weather" mod by Arrow. 
+            It focuses on essential effects like dynamic fog, snow accumulation, and hail damage, excluding the complex separate humidity system.
+        </en>
+        <it>
+            Questa mod aggiunge un sistema di gestione meteo leggero e ottimizzato, ispirato alla mod originale "Realistic Weather" di Arrow. 
+            Si concentra sugli effetti essenziali come nebbia dinamica, accumulo di neve e danni da grandine, escludendo il complesso sistema di umidità separato.
+        </it>
+        <de>
+            Diese Mod fügt ein leichtgewichtetes und optimiertes Wetterverwaltungssystem hinzu, inspiriert von der originalen "Realistic Weather"-Mod von Arrow. 
+            Sie konzentriert sich auf wesentliche Effekte wie dynamischen Nebel, Schneeansammlung und Hagelschäden, ohne das separate Feuchtigkeitssystem.
+        </de>
+        <fr>
+            Cette mod ajoute un système de gestion météo léger et optimisé, inspiré du mod original "Realistic Weather" d'Arrow. 
+            Elle se concentre sur les effets essentiels comme le brouillard dynamique, l'accumulation de neige et les dégâts de grêle, en excluant le système d'humidité séparé.
+        </fr>
+        <es>
+            Este mod añade un sistema de gestión del clima ligero y optimizado, inspirado en el mod original "Realistic Weather" de Arrow. 
+            Se centra en efectos esenciales como niebla dinámica, acumulación de nieve y daños por granizo, excluyendo el sistema de humedad separado.
+        </es>
+        <pl>
+            Ten mod dodaje lekki i zoptymalizowany system zarządzania pogodą, zainspirowany oryginalnym modem "Realistic Weather" autorstwa Arrow. 
+            Skupia się na niezbędnych efektach, takich jak dynamiczna mgła, gromadzenie się śniegu i uszkodzenia od gradu, wyключая oddzielny system wilgotności.
+        </pl>
+        <ru>
+            Этот мод добавляет легкую и оптимизированную систему управления погодой, вдохновленную оригинальным модом "Realistic Weather" от Arrow. 
+            Он сосредоточен на таких важных эффектах, как динамический туман, накопление снега и урон от града, исключая отдельную систему влажности.
+        </ru>
+    </description>
+    <version>1.3.0.0</version>
+    <iconFilename>icon_RealisticWeatherLite.dds</iconFilename>
+    <multiplayer supported="true" />
+
+   <extraSourceFiles>
+        <sourceFile filename="src/RealisticWeatherLiteEvent.lua" />
+        <sourceFile filename="src/AmbientSoundSystem.lua" />
+        <sourceFile filename="src/WheelDestruction.lua" />      
+        <sourceFile filename="src/RealisticWeatherLite.lua" />
+        <sourceFile filename="src/RealisticWeatherLiteSettings.lua" />
+    </extraSourceFiles>
+
+    <!-- Richiama tutti i file di lingua separati situati nella cartella "translation" -->
+    <l10n filenamePrefix="translation/l10n" />
+
+</modDesc>
